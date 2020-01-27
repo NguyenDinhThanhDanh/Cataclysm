@@ -1,0 +1,47 @@
+Taille de la grille:
+Largeur= 20 Longueur= 20
+NombresEcureuil: 5
+NombreArbres= 5
+NombreBuisson= 3
+NombreGland= 2
+NombreChapignons= 3
+NombreChats= 3
+Etat iniatiale des ecureuils: rassasier
+Coordonnee arbre x y
+arbre 1: 0 3
+arbre 2: 6 2
+arbre 3: 10 9
+arbre 4: 5 6
+arbre 5: 9 16
+
+Coordonnee Ecureuil
+ecureuil 1: 19 16
+ecureuil 2: 1 4
+ecureuil 3: 17 0
+
+Coordonnee Buissons x y:
+buisson 1: 1 1
+buisson 2: 1 7
+buisson 3: 3 4
+
+Coordonnee Gland x y:
+gland 1: 19 18
+gland 2: 5 9
+
+Cordonnées Champingons x y:
+champignons 1: 2 2
+champignons 2: 0 5
+champignons 3: 14 15
+
+Coordonnées Chats:
+Chat 1: 19 5
+Chat 2: 12 19
+Chat 3: 3 0
+
+
+
+
+
+
+
+
